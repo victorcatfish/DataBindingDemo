@@ -6,7 +6,6 @@ import android.widget.Toast;
 /** 任务类
  * Created by Victor on 2017/1/21.
  */
-
 public class MyTask implements Runnable {
 
     private Context mContext;

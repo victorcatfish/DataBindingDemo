@@ -6,7 +6,6 @@ import android.widget.Toast;
 /** 事件处理类
  * Created by Victor on 2017/1/21.
  */
-
 public class MyHandler {
 
     public void showTost(View view) {
